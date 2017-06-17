@@ -1,5 +1,7 @@
 # data
 data/
+MNIST_data/
+data_full/
 
 # pycharm
 .idea/
